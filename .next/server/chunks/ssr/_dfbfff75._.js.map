@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///home/ch/dev/apps/boxful-pt/package-manager-client/src/app/page.tsx"],"sourcesContent":["import React from \"react\";\nimport { Button } from \"antd\";\n\nexport default function Home() {\n  return (\n    <div className=\"App\">\n      <Button type=\"primary\">Button</Button>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AACA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC,mIAAA,CAAA,SAAM;YAAC,MAAK;sBAAU;;;;;;;;;;;AAG7B","debugId":null}},
+    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
