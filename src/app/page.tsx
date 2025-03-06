@@ -1,10 +1,8 @@
-import React from "react";
-import { Button } from "antd";
+"use client";
 
-export default function Home() {
-  return (
-    <div className="App">
-      <Button type="primary">Button</Button>
-    </div>
-  );
-}
+// app/page.tsx
+const HomePage = () => {
+  return <div>Welcome to the main page!</div>;
+};
+
+export default HomePage;
